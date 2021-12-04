@@ -1,1 +1,5 @@
-# intervew_prep
+# interview-prep
+### Organization
+/algorithms
+/data_science
+/deep_learning
